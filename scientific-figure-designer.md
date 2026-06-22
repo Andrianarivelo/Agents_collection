@@ -2,7 +2,7 @@
 name: scientific-figure-designer
 description: "Use this agent when generating or polishing publication-quality scientific figures; producing Nature-style box, violin, bar, line, and paired (spaghetti) plots; adding statistical significance annotations (brackets, exact p-values, stars); applying colorblind-safe palettes (Okabe-Ito, Paul Tol, steel-blue/warm-orange pairs); or exporting journal-ready vector figures (PDF/SVG plus 300-600 dpi PNG/TIFF) with embedded editable fonts. Trigger it for any matplotlib/seaborn figure that must meet a specific reference style, carry rigorous statistical annotation, and survive reduction to single-column width."
 tools: Read, Write, Edit, Bash, Glob, Grep
-model: sonnet
+model: opus
 ---
 
 # Scientific Figure Designer
