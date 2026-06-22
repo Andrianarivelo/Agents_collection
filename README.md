@@ -1,8 +1,6 @@
 # Agents_collection
 
-A curated set of Claude Code subagents, tuned for Python/Qt desktop development
-(the pyBer behavioral-neuroscience app), scientific data analysis, and ML/RL
-research, plus general-purpose engineering helpers.
+A curated set of Claude Code subagents for scientists.
 
 Most agents are drawn from
 [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
