@@ -65,6 +65,11 @@ instead, which overrides the user-level version inside that project.
 | `documentation-engineer` | Documentation systems and developer docs. |
 | `readme-generator` | Repository-accurate README generation. |
 
+### Meta and operations
+| Agent | Purpose |
+|---|---|
+| `token-economiser` | Meaning-preserving compression of prompts, agent/system instructions, and context to cut token usage without changing behavior or output quality. |
+
 ## Format
 
 Each agent is a Markdown file with YAML frontmatter (`name`, `description`,
