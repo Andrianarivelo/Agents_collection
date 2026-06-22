@@ -40,6 +40,7 @@ instead, which overrides the user-level version inside that project.
 | `refactoring-specialist` | Deeper structural cleanup without changing behavior. |
 | `debugger` | Root-cause analysis of failures and stack traces. |
 | `test-automator` | Build and extend automated test suites. |
+| `code-commenter` | Adds clear docstrings and explanatory comments without changing behavior. |
 
 ### Languages
 | Agent | Purpose |
@@ -55,6 +56,7 @@ instead, which overrides the user-level version inside that project.
 | `reinforcement-learning-engineer` | RL environments, policy gradients, reward design. |
 | `performance-engineer` | Find and remove performance bottlenecks. |
 | `scientific-literature-researcher` | Evidence-grounded answers from research papers. |
+| `scientific-figure-designer` | Nature-style, colorblind-safe publication figures with statistical annotation and vector export. |
 
 ### Project support
 | Agent | Purpose |
